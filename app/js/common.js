@@ -8,7 +8,6 @@ $(document).ready(function () {
     dots: false,
     infinite: true,
     speed: 500,
-    infinite: false,
     cssEase: 'linear'
     
   });
