@@ -1,4 +1,4 @@
-Тестовая работа "Dom": https://jhoonykorolkov.github.io/House.test/
+Тестовая работа "House": https://jhoonykorolkov.github.io/House.test/
 
 Desktop (only)
 
