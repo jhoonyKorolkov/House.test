@@ -1,4 +1,4 @@
-Тестовая работа "Pink": https://jhoonykorolkov.github.io/House.test/
+Тестовая работа "Dom": https://jhoonykorolkov.github.io/House.test/
 
 Desktop (only)
 
