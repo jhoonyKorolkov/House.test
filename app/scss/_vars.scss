@@ -1,0 +1,24 @@
+$default-font: "pt-serif", sans-serif;
+$support-font: "pt-sans-narrow" sans-serif;
+
+
+@mixin default-ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+@mixin caption {
+  font-size: 24px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #3c3c3c;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+
+
